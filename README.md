@@ -5,11 +5,19 @@
 
 ### 👩‍💻 Meet Tashie, the Cyber Girl! 👩‍💻
 
-👋 Hello there! I'm Tashie, a seasoned cyber professional with a passion for all things cloud security. As I embark on my journey into the realm of Cloud Security Engineering, I bring with me a wealth of experience and expertise gained over 7+ years in the field.
+👋 I bring over 10 years of experience in Customer Support and IT Support, with a strong foundation in technical troubleshooting and user-focused service. I’m currently pursuing a Bachelor’s in Cybersecurity at Purdue Global and will complete the program in 9 weeks.
 
-💼 Proud owner of Tashie Consulting Firm LLC and Wiley Tech Recruiting Firm LLC ([wileytechrecruiting.com](https://www.wileytechrecruiting.com)), I specialize in providing top-notch cybersecurity solutions and talent acquisition services. Whether it's safeguarding digital assets or connecting exceptional talent with cutting-edge tech opportunities, I thrive on delivering excellence.
+I work at a SaaS tutoring company that partners with school districts to deliver high-quality educational support. In my role, I combine technical expertise with clear communication and problem-solving to ensure smooth operations and excellent service delivery.
 
-🎓 With an Associate's Degree in Information Technology and a Bachelor's Degree in Cybersecurity with a concentration in Cloud Computing, I've honed my skills and knowledge to navigate the intricate landscapes of cybersecurity and cloud technologies.
+🔧 Technical Skills:
+SQL, Python, Troubleshooting, Network Protocols, Ticketing Systems (Jira, Zendesk, Salesforce), System Monitoring Tools, Security Best Practices, Burp Suite
+
+🤝 Soft Skills:
+Adaptability, Communication, Time Management, Critical Thinking, Team Collaboration
+
+In the next two weeks, I’m focusing on networking fundamentals — IP addressing, subnetting, routing, and switching — as part of my ongoing effort to grow in cybersecurity and prepare for future roles in the field.
+
+🎓 With an Associate's Degree in Information Technology and a Bachelor's Degree in Cybersecurity with a concentration in Cloud Cybersecurity, I've honed my skills and knowledge to navigate the intricate landscapes of cybersecurity and cloud technologies.](https://medium.com/@Tashie_WileyInsight)
 
 <h2>👨‍💻 Security Projects:</h2>
 
